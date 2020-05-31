@@ -3,4 +3,5 @@ WORKDIR /work
 
 RUN pip install \
     selenium \
-    beautifulsoup4
+    beautifulsoup4 \
+    requests
